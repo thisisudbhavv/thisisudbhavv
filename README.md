@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Udbhav
 - 👀 I’m interested in many things right now but mostly in programming.
 - 🌱 I’m currently learning web development and designing along with Java Swing.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on UI/UX design & Illustrations
 - 📫 How to reach me Email: gamerudbhav01@gmail.com
 
 <!---
