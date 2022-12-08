@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Udbhav Patel</h1>
-<h3 align="center">A developer and a designer from India</h3>
+<h3 align="center">A designer, developer and programmer form India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ski1ledhawkeye&label=Profile%20views&color=0e75b6&style=flat" alt="ski1ledhawkeye" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://udbhav-patel.netlify.app/index.html](https://udbhav-patel.netlify.app/index.html)
+- 👨‍💻 All of my projects are available at [thisisudbhavv.design](thisisudbhavv.design)
 
 - 💬 Ask me about **UI/UX, Illustration, Frontend & Programming**
 
