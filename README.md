@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [thisisudbhav.me](thisisudbhav.me)
 
-- 📝 I write articles on [medium.com/@thisisudbhavv](medium.com/@thisisudbhavv)
+- 📝 I write articles on [medium.com/@thisisudbhavv]([medium.com/@thisisudbhavv](https://medium.com/@thisisudbhavv))
 
 - 📫 How to reach me **thisisudbhavv@gmail.com**
 
